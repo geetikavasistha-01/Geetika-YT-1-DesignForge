@@ -2,8 +2,7 @@
 **A Soft-UI Intervention to Encourage Healthy Viewing Habits Without Disrupting Engagement**
 
 ---
-<img width="373" alt="Mindful_ui Figma Screenshot" src="https://github.com/user-attachments/assets/975f0e8d-ed29-4f21-9430-8f0e50a12bf4" /> <img width="627" alt="Screenshot 2025-04-18 at 7 34 42 PM" src="https://github.com/user-attachments/assets/d3e4f572-1e85-440f-959a-d2bd888c4b54" />
-
+<img width="373" alt="Mindful_ui Figma Screenshot" src="https://github.com/user-attachments/assets/975f0e8d-ed29-4f21-9430-8f0e50a12bf4" /> 
 
 ## 🎯 Overview
 
