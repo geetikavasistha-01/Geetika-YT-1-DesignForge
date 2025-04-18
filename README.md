@@ -1,11 +1,11 @@
 # 🌿 Mindful Watching: Dopamine-Conscious YouTube Redesign  
 **A Soft-UI Intervention to Encourage Healthy Viewing Habits Without Disrupting Engagement**
+---
+<img width="373" alt="Mindful_ui Figma Screenshot" src="https://github.com/user-attachments/assets/975f0e8d-ed29-4f21-9430-8f0e50a12bf4" /> 
+
 ## 🖼️ Live Figma Prototype
 View the full interactive prototype here:  
 [🔗 Open in Figma](https://www.figma.com/design/vR8QfP4sJxGexdep1uPzly/Design-Forge?node-id=0-1&t=EWcaxq4WCTclMIUV-1)
-
----
-<img width="373" alt="Mindful_ui Figma Screenshot" src="https://github.com/user-attachments/assets/975f0e8d-ed29-4f21-9430-8f0e50a12bf4" /> 
 
 ## 🎯 Overview
 
